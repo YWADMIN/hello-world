@@ -1,2 +1,2 @@
 # hello-world
-just to examination
+just to examination and learn some thing
